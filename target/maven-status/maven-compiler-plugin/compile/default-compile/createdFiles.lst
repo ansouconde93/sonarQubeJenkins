@@ -1,0 +1,9 @@
+com\example\sonarqubejenkins\dto\ProductDto.class
+com\example\sonarqubejenkins\entities\Product.class
+com\example\sonarqubejenkins\entities\Product$ProductBuilder.class
+com\example\sonarqubejenkins\service\interfaces\ProductService.class
+com\example\sonarqubejenkins\service\impl\ProductServiceImpl.class
+com\example\sonarqubejenkins\dto\ProductDto$ProductDtoBuilder.class
+com\example\sonarqubejenkins\controller\ProductController.class
+com\example\sonarqubejenkins\SonarQubeJenkinsApplication.class
+com\example\sonarqubejenkins\dao\ProductRepository.class
