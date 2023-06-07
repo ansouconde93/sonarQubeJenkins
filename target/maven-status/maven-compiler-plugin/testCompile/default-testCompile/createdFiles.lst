@@ -1,2 +1,2 @@
-com\example\sonarqubejenkins\integrationTest\ProductControllerTest.class
-com\example\sonarqubejenkins\unitTest\ProductServiceImplTest.class
+com\example\sonarqubejenkinsdemo\unitTest\ProductServiceImplTest.class
+com\example\sonarqubejenkinsdemo\integrationTest\ProductControllerTest.class

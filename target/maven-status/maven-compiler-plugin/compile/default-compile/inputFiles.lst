@@ -1,7 +1,7 @@
-C:\Users\ansou\Downloads\sonar\sonarQubeJenkins\src\main\java\com\example\sonarqubejenkins\entities\Product.java
-C:\Users\ansou\Downloads\sonar\sonarQubeJenkins\src\main\java\com\example\sonarqubejenkins\dto\ProductDto.java
-C:\Users\ansou\Downloads\sonar\sonarQubeJenkins\src\main\java\com\example\sonarqubejenkins\service\interfaces\ProductService.java
-C:\Users\ansou\Downloads\sonar\sonarQubeJenkins\src\main\java\com\example\sonarqubejenkins\controller\ProductController.java
-C:\Users\ansou\Downloads\sonar\sonarQubeJenkins\src\main\java\com\example\sonarqubejenkins\service\impl\ProductServiceImpl.java
-C:\Users\ansou\Downloads\sonar\sonarQubeJenkins\src\main\java\com\example\sonarqubejenkins\SonarQubeJenkinsApplication.java
-C:\Users\ansou\Downloads\sonar\sonarQubeJenkins\src\main\java\com\example\sonarqubejenkins\dao\ProductRepository.java
+C:\Users\ansou\Downloads\sonar\sonarQubeJenkins\src\main\java\com\example\sonarqubejenkinsdemo\dto\ProductDto.java
+C:\Users\ansou\Downloads\sonar\sonarQubeJenkins\src\main\java\com\example\sonarqubejenkinsdemo\dao\ProductRepository.java
+C:\Users\ansou\Downloads\sonar\sonarQubeJenkins\src\main\java\com\example\sonarqubejenkinsdemo\controller\ProductController.java
+C:\Users\ansou\Downloads\sonar\sonarQubeJenkins\src\main\java\com\example\sonarqubejenkinsdemo\service\interfaces\ProductService.java
+C:\Users\ansou\Downloads\sonar\sonarQubeJenkins\src\main\java\com\example\sonarqubejenkinsdemo\entities\Product.java
+C:\Users\ansou\Downloads\sonar\sonarQubeJenkins\src\main\java\com\example\sonarqubejenkinsdemo\SonarQubeJenkinsApplication.java
+C:\Users\ansou\Downloads\sonar\sonarQubeJenkins\src\main\java\com\example\sonarqubejenkinsdemo\service\impl\ProductServiceImpl.java
